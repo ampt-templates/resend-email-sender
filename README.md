@@ -2,7 +2,7 @@
 
 [<img src="https://getampt.com/button"/>](https://ampt.dev/start?template=resend-email-sender)
 
-This project showcases a simple transactional email sender using Resend on Ampt. The application showcases the data change handler and defining endpoints for webhooks on Ampt. 
+This project showcases a simple transactional email sender using Resend on Ampt. The application uses the data change handler to send the email asynchronously. 
 
 ## Dependencies
 
